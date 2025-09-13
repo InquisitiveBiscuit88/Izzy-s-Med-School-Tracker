@@ -19,7 +19,7 @@ body {
 #progress-bar {
   height: 100%;
   width: 0%;
-  background: linear-gradient(90deg, #a04cef, #a04cef);
+  background: linear-gradient(90deg, #461D7C, #461D7C);
   text-align: center;
   line-height: 40px;
   color: white;
@@ -28,5 +28,5 @@ body {
 }
 
 h1 {
-  color: #decc2e;
+  color: #FDD023;
 }
